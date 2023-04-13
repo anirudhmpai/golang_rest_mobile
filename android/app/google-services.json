@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "769787937782",
+    "project_id": "golangrest",
+    "storage_bucket": "golangrest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769787937782:android:9fbd8b2b24e19914aa7dd7",
+        "android_client_info": {
+          "package_name": "com.anirudhmpai.golangrest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769787937782-cfrsid2eeg3aqk74sgnujjtjh3ht3p31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaDpuB0NL-YsmGjBHJMCY6leRwM-Cwcrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769787937782-cfrsid2eeg3aqk74sgnujjtjh3ht3p31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769787937782-4au1sfd08bt16vq8vhamdp6703a9bl1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anirudhmpai.golangrest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769787937782:android:6ae627c59d1f2f32aa7dd7",
+        "android_client_info": {
+          "package_name": "com.example.golang_rest_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769787937782-cfrsid2eeg3aqk74sgnujjtjh3ht3p31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaDpuB0NL-YsmGjBHJMCY6leRwM-Cwcrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769787937782-cfrsid2eeg3aqk74sgnujjtjh3ht3p31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769787937782-4au1sfd08bt16vq8vhamdp6703a9bl1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anirudhmpai.golangrest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
